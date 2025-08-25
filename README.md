@@ -11,6 +11,6 @@ I completed my Ph.D. at the Wallenberg Centre for Quantum Technology, Chalmers U
 I am passionate about open-source software and I was actively involved in the team developing [QuTiP](www.qutip.org), the quantum toolbox in Python. Additionally, I have contributed to the [PennyLane](https://pennylane.ai) software for quantum machine learning. I have also been a mentor to students in Google Summer of Code and have myself worked on developing code for the Python software Dipy as a Google Summer of Code 2016 student mentored by [Prof. Ariel Rokem](https://arokem.org) at the University of Washington.
 Please contact me at shahnawaz.ahmed95@gmail.com to discuss collaborations, research opportunities, or any other topic related to quantum physics, machine learning, and software development. You can also connect with me on LinkedIn [quantshah](https://www.linkedin.com/in/quantshah/). Please visit my [Google Scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) page to explore my research publications.
 
-For a detailed overview of my experience and qualifications, you can look at my [CV](https://github.com/quantshah/cv/blob/main/README.md).
+For a detailed overview of my experience and qualifications, please have a look at my [CV](https://github.com/quantshah/cv/blob/main/shahnawaz-cv.pdf).
 
 Thank you for visiting my GitHub page!
