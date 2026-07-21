@@ -1,5 +1,4 @@
 ---
-title: Shahnawaz Ahmed — Deep Learning Researcher
 description: Senior Deep Learning Researcher at Embedl. I make large neural networks — LLMs, vision-language and vision-language-action models — run fast on edge hardware through quantization, pruning, and inference optimization.
 ---
 
