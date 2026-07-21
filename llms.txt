@@ -1,0 +1,19 @@
+# Shahnawaz Ahmed
+
+> Senior Deep Learning Researcher at Embedl (Sweden), PhD in machine learning for quantum technology from Chalmers University of Technology. Specializes in neural-network inference optimization for edge hardware: quantization (PTQ/QAT, full INT8), pruning, hardware-aware neural architecture search, and real-time deployment of vision-language (VLM) and vision-language-action (VLA) models on NVIDIA (Orin, Thor), AMD (Strix Halo), and Qualcomm/Samsung NPUs. Product owner of embedl-deploy. Core contributor to QuTiP; PennyLane contributor.
+
+## CV
+
+- [CV (web)](https://quantshah.github.io/cv/): full curriculum vitae as a web page
+- [CV (markdown source)](https://raw.githubusercontent.com/quantshah/cv/main/index.md): machine-readable markdown version of the CV
+- [CV (PDF)](https://github.com/quantshah/cv/raw/main/shahnawaz-cv.pdf): PDF version
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en): publication record
+- [GitHub](https://github.com/quantshah): open-source work
+- [LinkedIn](https://www.linkedin.com/in/quantshah/): professional profile
+
+## Contact
+
+- Email: shahnawaz.ahmed95@gmail.com

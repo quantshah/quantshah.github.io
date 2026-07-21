@@ -1,16 +1,77 @@
+---
+title: Shahnawaz Ahmed — Deep Learning Researcher
+description: Senior Deep Learning Researcher at Embedl. I make large neural networks — LLMs, vision-language and vision-language-action models — run fast on edge hardware through quantization, pruning, and inference optimization.
+---
+
 # Shahnawaz Ahmed
 
-Hi, I am Shahnawaz. I am a deep learning researcher exploring how large neural networks can be compressed to run on edge device at [Embedl](https://embedl.com). I work with research and development of deep learning model optimization techniques, including quantization, pruning, neural architecture search and knowledge distillation. My work at Embedl involves optimizing models so that they can be run on devices such as Qualcomm's Snapdragon chips, NVIDIA's Jetson AGX Orin. I also conduct workshops to train deep learning engineers on model optimization strategies, and collaborate with deep learning teams to develop efficient deep learning models.
+**Senior Deep Learning Researcher at [Embedl](https://embedl.com) | PhD in machine learning for quantum technology**
 
-My Ph.D. was on machine learning for quantum physics applications and exploring the potential of quantum computers for machine learning. I am collaborating with the quantum machine learning team at [Xanadu](http://Xanadu.ai/) and also working with [Dr. Maria Schuld](https://scholar.google.com/citations?user=_ih_hwUAAAAJ&hl=de) on benchmarking quantum vs classical machine learning. My work involves developing and testing quantum machine learning models on high-performance computing clusters (e.g., NERSC in the US) to assess their properties and capabilities in solving real-world problems. Therefore I have some experience with high performance computing and running large scale machine learning experiments with SLURM and Raytune.
+I make large neural networks run fast on small hardware. My work spans quantization, pruning, neural architecture search, and inference optimization — taking models from PyTorch to real-time execution on edge devices such as NVIDIA GPUs (Orin, Thor), AMD Strix Halo, and Qualcomm NPUs.
 
-In the past, I worked with [Prof. Juan Carrasquilla](https://scholar.google.com/citations?user=slkzvvQAAAAJ&hl=en) at VectorAI (now at ETH, Zurich) and Nathan Killoran at [Xanadu](http://Xanadu.ai/) as a MITACS fellow. I did my master's thesis in the group of Prof. Franco Nori at Riken, Japan, where I focused on developing numerical approaches to model open quantum systems and explored how deep neural networks can learn the rules of games such as Sudoku.
+## What I do now
 
-I completed my Ph.D. at the Wallenberg Centre for Quantum Technology, Chalmers University of Technology, Göteborg. My research focused on the intersection of quantum information, computing, and machine learning. I am interested in exploring the merger of these fields, with a particular emphasis on applying machine-learning techniques to solve problems in quantum physics. In my Ph.D., I developed adversarial neural networks for quantum tomography, a Riemannian optimization technique to speed up quantum process learning, and have written software for quantum physics and circuit simulations during my Ph.D. I have also collaborated with experimentalists to characterize quantum systems, create non-classical quantum states of light (GKP and CAT states) and assist in the data analysis of the first ever measurement of the quantum state of photoelectrons in the group of Nobel prize winning physicist [Anne L'Huillier](https://en.wikipedia.org/wiki/Anne_L%27Huillier) at Lund University.
+- **Real-time robotics AI**: optimizing vision-language-action models like [Physical Intelligence π-0.5](https://www.pi.website/blog/pi05) to run robot control policies in real time (10 Hz) on NVIDIA Thor and AMD Strix Halo GPUs.
+- **VLM quantization**: full-integer (INT8) quantization of vision-language models such as Qwen 2.5 VL 7B so they can run on NPUs.
+- **Product owner of [embedl-deploy](https://github.com/embedl/embedl-deploy)**: a Python toolkit that enforces hardware and compiler constraints directly in PyTorch, so models deploy on edge devices with predictable performance and accuracy. I drive its design and work with chip vendors (Axelera, Lattice, AMD) to enable fast deployment.
+- **Customer projects**: deploying optimized models with companies like [SAAB](https://www.embedl.com/case-study-accelerating-drone-based-object-detection) (2.26× faster drone-based object detection), [Kodiak](https://kodiak.ai/), and BMW (LLMs on older-generation NPUs such as Samsung Exynos).
 
-I am passionate about open-source software and I was actively involved in the team developing [QuTiP](www.qutip.org), the quantum toolbox in Python. Additionally, I have contributed to the [PennyLane](https://pennylane.ai) software for quantum machine learning. I have also been a mentor to students in Google Summer of Code and have myself worked on developing code for the Python software Dipy as a Google Summer of Code 2016 student mentored by [Prof. Ariel Rokem](https://arokem.org) at the University of Washington.
-Please contact me at shahnawaz.ahmed95@gmail.com to discuss collaborations, research opportunities, or any other topic related to quantum physics, machine learning, and software development. You can also connect with me on LinkedIn [quantshah](https://www.linkedin.com/in/quantshah/). Please visit my [Google Scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) page to explore my research publications.
+## Research
 
-For a detailed overview of my experience and qualifications, please have a look at my [CV](https://github.com/quantshah/cv/blob/main/shahnawaz-cv.pdf).
+I collaborate with the quantum machine learning team at [Xanadu](https://xanadu.ai) and [Dr. Maria Schuld](https://scholar.google.com/citations?user=_ih_hwUAAAAJ&hl=de) on benchmarking quantum vs. classical machine learning, running large-scale experiments on HPC clusters (NERSC) with SLURM and Ray Tune.
 
-Thank you for visiting my GitHub page!
+My [PhD at Chalmers University of Technology](https://research.chalmers.se/en/publication/539445) (Wallenberg Centre for Quantum Technology) was on machine learning for quantum physics: adversarial neural networks for quantum tomography, Riemannian optimization for quantum process learning, and data analysis for the first-ever quantum state tomography of photoelectrons with the group of Nobel laureate [Anne L'Huillier](https://en.wikipedia.org/wiki/Anne_L%27Huillier).
+
+## Open source
+
+Core contributor and admin team member of [QuTiP](https://qutip.org), the quantum toolbox in Python. Contributor to [PennyLane](https://pennylane.ai). Google Summer of Code student ([DIPY](https://dipy.org), 2016) and later mentor for QuTiP projects.
+
+## CV and contact
+
+- **CV**: [web version](https://quantshah.github.io/cv/) | [PDF](https://github.com/quantshah/cv/blob/main/shahnawaz-cv.pdf)
+- **Email**: shahnawaz.ahmed95@gmail.com
+- **Links**: [Google Scholar](https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en) | [GitHub](https://github.com/quantshah) | [LinkedIn](https://www.linkedin.com/in/quantshah/)
+
+Get in touch to discuss deep learning model optimization, edge AI, quantum machine learning, or open-source software.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shahnawaz Ahmed",
+  "honorificPrefix": "Dr.",
+  "url": "https://quantshah.dev",
+  "email": "shahnawaz.ahmed95@gmail.com",
+  "jobTitle": "Senior Deep Learning Researcher",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Embedl",
+    "url": "https://embedl.com"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Chalmers University of Technology"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "BITS Pilani, Goa"
+    }
+  ],
+  "knowsAbout": [
+    "Deep learning model optimization",
+    "Neural network inference optimization",
+    "Quantization",
+    "Vision-language models",
+    "Vision-language-action models",
+    "Edge AI",
+    "Quantum machine learning",
+    "Quantum computing"
+  ],
+  "sameAs": [
+    "https://github.com/quantshah",
+    "https://www.linkedin.com/in/quantshah/",
+    "https://scholar.google.com/citations?user=2WJXw9YAAAAJ&hl=en"
+  ]
+}
+</script>
