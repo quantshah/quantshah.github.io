@@ -1,5 +1,5 @@
 ---
-description: Senior Deep Learning Researcher at Embedl. I make large neural networks — LLMs, vision-language and vision-language-action models — run fast on edge hardware through quantization, pruning, and inference optimization.
+description: Senior Deep Learning Researcher at Embedl. I make large neural networks — LLMs and vision-language models — run fast on edge hardware through quantization, pruning, and inference optimization..
 ---
 
 # Shahnawaz Ahmed
@@ -10,9 +10,9 @@ I make large neural networks run fast on small hardware. My work spans quantizat
 
 ## What I do now
 
-- **Real-time robotics AI**: optimizing vision-language-action models like [Physical Intelligence π-0.5](https://www.pi.website/blog/pi05) to run robot control policies in real time (10 Hz) on NVIDIA Thor and AMD Strix Halo GPUs.
-- **VLM quantization**: full-integer (INT8) quantization of vision-language models such as Qwen 2.5 VL 7B so they can run on NPUs.
+- **Embedl platform**: driving the design of Embedl's platform for benchmarking, optimizing, and deploying models to edge hardware — from experiment tracking to the model registry and device execution.
 - **Product owner of [embedl-deploy](https://github.com/embedl/embedl-deploy)**: a Python toolkit that enforces hardware and compiler constraints directly in PyTorch, so models deploy on edge devices with predictable performance and accuracy. I drive its design and work with chip vendors (Axelera, Lattice, AMD) to enable fast deployment.
+- **Inference optimization research**: quantization, pruning, and neural architecture search for large neural networks, including full-integer (INT8) quantization of vision-language models such as Qwen 2.5 VL 7B so they can run on NPUs.
 - **Customer projects**: deploying optimized models with companies like [SAAB](https://www.embedl.com/case-study-accelerating-drone-based-object-detection) (2.26× faster drone-based object detection), [Kodiak](https://kodiak.ai/), and BMW (LLMs on older-generation NPUs such as Samsung Exynos).
 
 ## Research
@@ -62,7 +62,6 @@ Get in touch to discuss deep learning model optimization, edge AI, quantum machi
     "Neural network inference optimization",
     "Quantization",
     "Vision-language models",
-    "Vision-language-action models",
     "Edge AI",
     "Quantum machine learning",
     "Quantum computing"
